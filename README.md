@@ -16,3 +16,4 @@ Cleaned car name and related columns
 Encoded categorical columns where required
 Checked outliers
 Prepared the dataset for further analysis
+//Add steps how to run .
